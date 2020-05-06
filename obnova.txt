@@ -1,4 +1,4 @@
 {
-  "latest": "1.8",
-  "updateurl": "https://cdn.discordapp.com/attachments/705778693607391275/707673277740613692/ARZ_Chat_Helper.lua"
+  "latest": "1.9",
+  "updateurl": "https://cdn.discordapp.com/attachments/705778693607391275/707726059017338890/ARZ_Chat_Helper.lua"
 }
